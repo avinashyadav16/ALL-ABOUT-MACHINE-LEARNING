@@ -1,2 +1,3 @@
 # Introduction-to-Machine-Learning
- Basic explanation of Machine Learning Topics.
+<i><strong>Basic explanations of Machine Learning Topics.</strong></i>
+---------------
