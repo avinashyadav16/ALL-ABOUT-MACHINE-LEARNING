@@ -27,13 +27,21 @@ Here is an overview of the folders and their purpose:
 - **04_BIVARIATE_ANALYSIS**: Techniques for analyzing relationships between two variables.
 - **05_PANDAS_PROFILING**: Automate data exploration and profiling using Pandas Profiling.
 
-### Machine Learning:
+### Preprocessing and Transformation:
 
-- **ML_CONCEPTS**: Core concepts and algorithms in machine learning.
 - **06_STANDARDIZATION**: Standardizing datasets for machine learning workflows.
+- **07_NORMALIZATION**: Normalizing datasets for better model performance.
+- **08_ORDINAL_ENCODING**: Encoding ordinal categorical variables.
+- **09_ONE_HOT_ENCODING**: Encoding nominal categorical variables using one-hot encoding.
+- **10_COLUMN_TRANSFORMER**: Applying transformations to specific columns in datasets.
+- **11_SKLEARN_PIPELINE**: Building machine learning pipelines with scikit-learn.
+- **12_FUNCTION_TRANSFORMER**: Custom transformations using FunctionTransformer in scikit-learn.
+- **13_POWER_TRANSFORMER**: Power transformations for stabilizing variance and minimizing skewness.
+- **14_BINNING_AND_BINARIZATION**: Techniques for binning continuous data and binarization.
 
 ### Others:
 
 - **00_PROLOG**: Resources related to Prolog programming language.
+- **ML_CONCEPTS**: Core concepts and algorithms in machine learning.
 
 ---
